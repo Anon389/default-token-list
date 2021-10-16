@@ -255,4 +255,12 @@
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687/logo.png"
 	}
+	{
+		"chainId": 1666600000,
+		"address": "0xfa1184b73a24c5426103766579a2ca9dd4e465f2",
+		"symbol": "SUN",
+		"name": "Sun",
+		"decimals": 18,
+		"logoURI": "https://i.imgur.com/jWZQfzg.png"
+	}
 ]
