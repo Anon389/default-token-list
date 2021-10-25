@@ -206,5 +206,13 @@
     "name": "Freyala",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/XYA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xfa1184b73a24c5426103766579a2ca9dd4e465f2",
+    "symbol": "SUN",
+    "name": "Sun",
+    "decimals": 20,
+    "logoURI": "https://i.imgur.com/6gai85T.png"
   }
 ]
